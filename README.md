@@ -32,7 +32,7 @@
 ** O projeto foi desenvolvido com as seguintes tecnologia ** 
 
 - [R](https://www.r-project.org/)
-- [SQLite][https://www.sqlite.org/index.html]
+- [SQLite](https://www.sqlite.org/index.html)
 
 ## Pacotes Utilizados 
 
@@ -53,14 +53,14 @@
 ## Bibliotecas para Geração de Gráficos 
 
 - [geom_bar](https://plotly.com/ggplot2/geom_bar/)
-- [geom_boxplot](hhttps://ggplot2.tidyverse.org/reference/geom_boxplot.html)
+- [geom_boxplot](https://ggplot2.tidyverse.org/reference/geom_boxplot.html)
 
 ## Imagens dos Gráficos 
 
 ** # Quantidade de Setores por Setor nas Colunas ** 
-<img src="Grafico_1.png">
+<img src="Gráfico_1.png">
 
 ** Quantidade de Paises por País nas Colunas **
-<img src="Grafico_2.png">
+<img src="Gráfico_2.png">
 
 Desenvolvido por Gustavo Henrique de Souza Silva
