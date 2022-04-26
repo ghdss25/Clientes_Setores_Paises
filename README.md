@@ -2,7 +2,7 @@
 
 ** Clientes, Setores e Paises ** 
 
-* Conjunto de dados distribuido pela Data Science Academy, onde mostra os setores de profissão por paises ao redor mundo que é concatenada pela tabela de clientes, na intenção de obter identificação por País. 
+* Conjunto de dados distribuído pela Data Science Academy, onde mostra os setores de profissão por países ao redor mundo que é concatenada pela tabela de clientes, na intenção de obter identificação por País. 
 
 ## Tarefas para a planilhia de Clientes, Setores e Paises
 
